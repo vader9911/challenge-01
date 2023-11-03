@@ -7,9 +7,9 @@ This is a small project that is a simple landing page. The purpose of this proje
 The Base code provided worked to display the webpage and the final result is visually the same, however both the HTML and CSS have been revised for readability. Comments have been added to seperate sections and the CSS has been condensed to eliminate redundancy. In the HTML, now unused class tags have been removed.
 
 
-## Installation
+## Preview
 
-N/A
+![A preview of the finished webpage.](./assets/images/preview.png)
 
 ## Usage
 
